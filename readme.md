@@ -1,7 +1,7 @@
 # AquaJo
 Hi, I am a german programmer, 
 
-currently I am into chrome extension programming ♥ and in general into web-stuff and Node.js at the moment.
+currently I am into chrome extension programming and in general into web-stuff and Node.js at the moment.
 
 I also enjoy Java (--> see my project: "image manipulator") and am looking forward into learning new languages.
 
