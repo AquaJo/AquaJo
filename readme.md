@@ -5,7 +5,6 @@ currently I am into chrome extension programming and in general into web-stuff a
 
 I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages.
 
-I also planned to program discord-bots in the future.
 <br>
 # my experiences (more or less)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
