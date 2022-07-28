@@ -3,7 +3,7 @@ Hi, I am a german programmer,
 
 currently I am into chrome extension programming and in general into web-stuff and Node.js.
 
-I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages.
+I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages and interacting with all kinds of apis.
 <br>
 
 # my experiences (more or less)
