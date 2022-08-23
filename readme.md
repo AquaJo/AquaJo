@@ -15,7 +15,7 @@ I also enjoy Java (--> see my project: "image manipulator") and am looking forwa
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
-
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ## Stats
 ![AquaJo's Github Stats](https://github-readme-stats.vercel.app/api?username=AquaJo&theme=github_dark)
 
