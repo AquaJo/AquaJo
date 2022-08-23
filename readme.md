@@ -16,7 +16,7 @@ I also enjoy Java (--> see my project: "image manipulator") and am looking forwa
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-## Stats
+## stats
 ![AquaJo's Github Stats](https://github-readme-stats.vercel.app/api?username=AquaJo&theme=github_dark)
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AquaJo&layout=compact&theme=github_dark)](https://github.com/AquaJo/github-readme-stats)
