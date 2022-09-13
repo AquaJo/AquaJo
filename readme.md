@@ -1,9 +1,12 @@
 # AquaJo
 Hi, I am a german programmer, 
 
-currently I am into chrome extension programming and in general into web-stuff and Node.js.
+currently I am into electron desktop app programming, building an app named hueFL, which is controlling hue lights through a GUI including features like background sync and music sync (powered over Java calls because of its speed).
 
-I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages and get to know more and more awesome apis.
+Frontend side I Really like javascript programming,
+when it comes to backend I like Node.js serverside programming, 
+
+but I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages and get to know more and more awesome apis.
 <br>
 
 ## my experiences (more or less)
