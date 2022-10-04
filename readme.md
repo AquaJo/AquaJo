@@ -20,6 +20,7 @@ but I also enjoy Java (--> see my project: "image manipulator") and am looking f
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ## Stats
+currently not working --> I might set up my own vercel-server in my free time soon
 ![AquaJo's Github Stats](https://github-readme-stats.vercel.app/api?username=AquaJo&theme=github_dark)
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AquaJo&layout=compact&theme=github_dark)](https://github.com/AquaJo/github-readme-stats)
