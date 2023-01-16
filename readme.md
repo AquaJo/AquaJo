@@ -6,7 +6,7 @@ currently I am e.g. into electron desktop app programming, building an app named
 Frontend side I Really like javascript programming.
 When it comes to backend I like Node.js serverside programming, 
 
-but I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages/ practices and get to know more awesome apis, ... .
+but I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages/ practices and get to know more awesome apis and stuff.
 <br>
 
 ## my experiences (more or less)
