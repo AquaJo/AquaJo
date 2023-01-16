@@ -1,7 +1,7 @@
 # AquaJo
 Hi, I am a german programmer, 
 
-currently I am e.g. into electron desktop app programming, building an app named hueFL, which is controlling hue lights through a GUI including features like background sync and music sync (powered over Java calls due to it's speed) supporting bridge v2.
+currently I am e.g. into electron desktop app programming, building an app named hueFL for controlling (phillips) hue lights with bridge v2 including some nice features.
 
 Frontend side I Really like javascript programming.
 When it comes to backend I like Node.js serverside programming, 
