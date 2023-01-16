@@ -6,7 +6,7 @@ currently I am into electron desktop app programming, building an app named hueF
 Frontend side I Really like javascript programming,
 when it comes to backend I like Node.js serverside programming, 
 
-but I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages and get to know more and more awesome apis.
+but I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages/ practices and get to know more awesome apis, ... .
 <br>
 
 ## my experiences (more or less)
