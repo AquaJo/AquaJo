@@ -3,8 +3,8 @@ Hi, I am a german programmer,
 
 currently I am into electron desktop app programming, building an app named hueFL, which is controlling hue lights through a GUI including features like background sync and music sync (powered over Java calls due to it's speed) supporting bridge v2.
 
-Frontend side I Really like javascript programming,
-when it comes to backend I like Node.js serverside programming, 
+Frontend side I Really like javascript programming.
+When it comes to backend I like Node.js serverside programming, 
 
 but I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages/ practices and get to know more awesome apis, ... .
 <br>
