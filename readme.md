@@ -1,12 +1,5 @@
 # AquaJo
-Hi, I am a german programmer, 
-
-currently I am e.g. into electron desktop app programming, building an app named hueFL for controlling (phillips) hue lights with bridge v2 including some nice features.
-
-Frontend side I Really like javascript programming.
-When it comes to backend I like Node.js serverside programming, 
-
-but I also enjoy Java (--> see my project: "image manipulator") and am looking forward to learn new languages/ practices and get to know more awesome apis and stuff.
+Hi
 <br>
 
 ## my experiences (more or less)
