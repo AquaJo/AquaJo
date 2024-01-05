@@ -37,7 +37,7 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Happiness is when what you think, what you say, and what you do are in harmony.<br>~ L.M. Montgomery</p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> People who are crazy enough to think they can change the world, are the ones who do.<br>~ Bill Gates</p>
 		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=1&pause=1000&color=1A92F7&repeat=false&random=false&width=200&height=200&lines=Cat+of+the+hour" alt="Typing SVG" /></a><img src="https://1221121.xyz/hourCat" height = "200px"></p>
   </ul>
 </div>
@@ -48,7 +48,7 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=360&height=17&lines=catty+gif+gets+updated+in+~60+minutes+by+server" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=360&height=17&lines=catty+gif+gets+updated+in+~1+minutes+by+server" alt="Typing SVG" /></a>
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=312&height=17&lines=quote+gets+updated+in+~24+hours+by+server" alt="Typing SVG" /></a>
 
