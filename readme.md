@@ -5,7 +5,7 @@
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	 <summary><h1>I am</h1></summary>
   <p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hobby-Developer%20%26%20Student;problem-solving%20fan%20since%20birth;some%20random%20%26%20lost%20guy%20:);&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMeABCDEFGHIJKLMNOPQRSTUVWXYZ"></a>
 	  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=15001&color=1A92F7&center=true&repeat=false&random=false&width=1000&lines=%26%20currently+working+on+a+discord+chrome+extension+with+nodejs+backend" alt="Typing SVG" /></a>
   </ul>
 </div>
@@ -37,7 +37,7 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Without constant activity, the threats of life will soon overwhelm the values<br>~ Mahatma Gandhi</p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> No price is too high to pay for the privilege of owning yourself.<br>~ L.M. Montgomery</p>
 		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=1&pause=1000&color=1A92F7&repeat=false&random=false&width=200&height=200&lines=Cat+of+the+hour" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatABCDEFGHIJKLMNOPQRSTUVWXYZ" height = "200px"></p>
   </ul>
 </div>
