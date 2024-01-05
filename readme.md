@@ -48,9 +48,9 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=360&height=17&lines=catty+gif+gets+updated+in+~1666667+minutes+by+server" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=360&height=17&lines=catty+gif+gets+updated+in+~1666657+minutes+by+server" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=312&height=17&lines=quote+gets+updated+in+~27777.8+hours+by+server" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=312&height=17&lines=quote+gets+updated+in+~27777.6+hours+by+server" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&color=1A92F7&multiline=true&repeat=false&random=false&width=605&height=80&lines=Please+do+not+hold+me+responsible+for+the+quotes.;+I+am+not+familiar+with+most+of+them+myself+as+node+extracts+them+from+a+large+array." alt="Typing SVG" /></a>
 	</div>
