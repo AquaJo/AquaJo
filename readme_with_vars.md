@@ -6,7 +6,7 @@
 	 <summary><h1>I am</h1></summary>
   <p align="center">
 <a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMe${ABC}"></a>
-	  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=15001&color=1A92F7&center=true&repeat=false&random=false&width=1000&lines=%26%20currently+working+on+a+discord+chrome+extension+with+nodejs+backend" alt="Typing SVG" /></a>
+	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOn${ABC}" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -38,7 +38,7 @@
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
 	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> ${QUOTE}</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=1&pause=1000&color=1A92F7&repeat=false&random=false&width=200&height=200&lines=Cat+of+the+hour" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCat${ABC}" height = "200px"></p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxt${ABC}" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCat${ABC}" height = "200px"></p>
   </ul>
 </div>
 
@@ -52,7 +52,7 @@
 	
 <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTime${ABC}" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&color=1A92F7&multiline=true&repeat=false&random=false&width=605&height=80&lines=Please+do+not+hold+me+responsible+for+the+quotes.;+I+am+not+familiar+with+most+of+them+myself+as+they+get+extracted+from+a+large+array." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvice${ABC}" alt="Typing SVG" /></a>
 	</div>
 	
 </div>
