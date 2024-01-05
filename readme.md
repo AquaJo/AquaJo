@@ -37,8 +37,8 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> The only thing that interferes with my learning is my education.</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=1&pause=1000&color=1A92F7&repeat=false&random=false&width=200&height=200&lines=Cat+of+the+hour" alt="Typing SVG" /></a><img src="https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> We cannot solve our problems with the same thinking we used when we created them. ~ Albert Einstein</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=1&pause=1000&color=1A92F7&repeat=false&random=false&width=200&height=200&lines=Cat+of+the+hour" alt="Typing SVG" /></a><img src="https://i.giphy.com/yFQ0ywscgobJK.gif" height = "200px"></p>
   </ul>
 </div>
 
@@ -50,7 +50,7 @@
 		
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=360&height=17&lines=catty+gif+gets+updated+in+~10+minutes+by+server" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=312&height=17&lines=quote+gets+updated+in+~5+hours+by+server" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&pause=1000&color=1A92F7&vCenter=true&repeat=false&random=false&width=312&height=17&lines=quote+gets+updated+in+~5.3+hours+by+server" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&color=1A92F7&multiline=true&repeat=false&random=false&width=605&height=80&lines=Please+do+not+hold+me+responsible+for+the+quotes.;+I+am+not+familiar+with+most+of+them+myself+as+node+extracts+them+from+a+large+array." alt="Typing SVG" /></a>
 	</div>
