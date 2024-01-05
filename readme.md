@@ -5,8 +5,8 @@
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	 <summary><h1>I am</h1></summary>
   <p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMeCscPfHE8CJ"></a>
-	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnCscPfHE8CJ" alt="Typing SVG" /></a>
+<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMeatv9eZYqf6"></a>
+	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnatv9eZYqf6" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -37,22 +37,25 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> We cannot solve our problems with the same thinking we used when we created them.<br>~ Albert Einstein</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtCscPfHE8CJ" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatCscPfHE8CJ" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> I have never met a man so ignorant that I couldn't learn something from him<br>~ Benjamin Franklin</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtatv9eZYqf6" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatatv9eZYqf6" height = "200px"></p>
   </ul>
 </div>
 
 <br>
 <div alig = "left">
-	<img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+	<picture>
+ <source align = "left" media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width=200px height=200px>
+ <img align = "left" width=200px height=200px alt="light/dark-Mode" src="https://github.com/AquaJo/AquaJo/assets/84229101/582901c1-a7bc-46a4-af8f-5c790f368de6">
+</picture>
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimeCscPfHE8CJ" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimeatv9eZYqf6" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimeCscPfHE8CJ" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimeatv9eZYqf6" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdviceCscPfHE8CJ" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdviceatv9eZYqf6" alt="Typing SVG" /></a>
 	</div>
 	
 </div>

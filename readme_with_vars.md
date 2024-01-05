@@ -44,7 +44,10 @@
 
 <br>
 <div alig = "left">
-	<img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+	<picture>
+ <source align = "left" media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width=200px height=200px>
+ <img align = "left" width=200px height=200px alt="light/dark-Mode" src="https://github.com/AquaJo/AquaJo/assets/84229101/582901c1-a7bc-46a4-af8f-5c790f368de6">
+</picture>
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
