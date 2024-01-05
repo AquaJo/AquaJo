@@ -3,7 +3,7 @@
   <ul align="center">
     <summary><img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> <h1 align="center"> Hey there, nice to see ya!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-	 <summary><h1>I am</h1></summary>
+	 <summary><h1>I amBLA</h1></summary>
   <p align="center">
 <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hobby-Developer%20%26%20Student;problem-solving%20fan%20since%20birth;some%20random%20%26%20lost%20guy%20:);&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 	  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=15001&color=1A92F7&center=true&repeat=false&random=false&width=1000&lines=%26%20currently+working+on+a+discord+chrome+extension+with+nodejs+backend" alt="Typing SVG" /></a>
