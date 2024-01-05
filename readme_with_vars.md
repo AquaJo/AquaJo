@@ -52,7 +52,7 @@
 	
 <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTime" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&color=1A92F7&multiline=true&repeat=false&random=false&width=605&height=80&lines=Please+do+not+hold+me+responsible+for+the+quotes.;+I+am+not+familiar+with+most+of+them+myself+as+node+extracts+them+from+a+large+array." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&color=1A92F7&multiline=true&repeat=false&random=false&width=605&height=80&lines=Please+do+not+hold+me+responsible+for+the+quotes.;+I+am+not+familiar+with+most+of+them+myself+as+they+get+extracted+from+a+large+array." alt="Typing SVG" /></a>
 	</div>
 	
 </div>
