@@ -37,8 +37,8 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Success is a lousy teacher. It seduces smart people into thinking they can't lose.<br>~ William Shakespeare</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=1&pause=1000&color=1A92F7&repeat=false&random=false&width=200&height=200&lines=Cat+of+the+hour" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatpTlO94U3sC" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> If you can't feed a hundred people, then feed just one.<br>~ Eleanor Roosevelt</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=1&pause=1000&color=1A92F7&repeat=false&random=false&width=200&height=200&lines=Cat+of+the+hour" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCat6UOWGtjlv4" height = "200px"></p>
   </ul>
 </div>
 
@@ -48,9 +48,9 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimepTlO94U3sC" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTime6UOWGtjlv4" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimepTlO94U3sC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTime6UOWGtjlv4" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=13&duration=1&color=1A92F7&multiline=true&repeat=false&random=false&width=605&height=80&lines=Please+do+not+hold+me+responsible+for+the+quotes.;+I+am+not+familiar+with+most+of+them+myself+as+they+get+extracted+from+a+large+array." alt="Typing SVG" /></a>
 	</div>
