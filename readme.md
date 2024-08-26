@@ -5,8 +5,8 @@
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	 <summary><h1>I am</h1></summary>
   <p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMe9ppnbkWf21"></a>
-	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOn9ppnbkWf21" alt="Typing SVG" /></a>
+<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMe39zcCpDzEp"></a>
+	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOn39zcCpDzEp" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -17,9 +17,9 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://discordapp.com/users/399176407202136066">
 			<img src="https://camo.githubusercontent.com/930f7883dc43ea38dc8674fdbde77875993b0cdd011318fb4268dfb3f3bcb185/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://1221121.xyz">
-		<img src="https://camo.githubusercontent.com/1d74bc3f465784fd1f7c583f7ef0a5fc44b0cc20fbf06771238bdd213276a3b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" ></a>
+		<img src="https://1221121.xyz/profileReadme/websiteSvg" ></a>
 	 <a style="margin-left: 10px;"  target="_blank" href="https://mastodon.social/@aquajo">
-			<img src="https://camo.githubusercontent.com/675257d1f9c3d0d8e7356f384139013552eac4b327159561ed572c299bb90ea3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6173746f646f6e2d3633363446463f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6173746f646f6e266c6f676f436f6c6f723d7768697465" ></a>
+			<img src="https://1221121.xyz/profileReadme/mastodonSvg" ></a>
       </div>
 <div align="center"  class="icons-social">
 	<a style="margin-left: 10px;"  target="_blank" href="mailto:aquajo@proton.me">
@@ -35,8 +35,8 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Lost wealth may be replaced by industry, lost knowledge by study, lost health<br>by temperance or medicine, but lost time is gone forever.<br> ~ Samuel Smiles - Scottish Author</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxt9ppnbkWf21" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCat9ppnbkWf21" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Sometimes life is going to hit you in the head with a brick. Don't lose faith.<br> ~ Steve Jobs - American entrepreneur</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxt39zcCpDzEp" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCat39zcCpDzEp" height = "200px"></p>
   </ul>
 </div>
 
@@ -49,11 +49,12 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTime9ppnbkWf21" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTime39zcCpDzEp" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTime9ppnbkWf21" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTime39zcCpDzEp" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvice9ppnbkWf21" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvice39zcCpDzEp" alt="Typing SVG" /></a>
+
 </div>
 
 </div>
