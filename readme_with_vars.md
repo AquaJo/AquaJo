@@ -29,8 +29,6 @@
 </p>
 </div>
 
-
-
 <br>
 <div id="user-content-toc" align = "center">
 	<ul align="center">
@@ -56,6 +54,6 @@
 <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTime${ABC}" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvice${ABC}" alt="Typing SVG" /></a>
-	</div>
-	
+</div>
+
 </div>
