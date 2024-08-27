@@ -15,7 +15,7 @@
 <p align="center">
  <div align="center"  class="icons-social">
         <a style="margin-left: 10px;"  target="_blank" href="https://discordapp.com/users/399176407202136066">
-			<img src="https://camo.githubusercontent.com/930f7883dc43ea38dc8674fdbde77875993b0cdd011318fb4268dfb3f3bcb185/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" ></a>
+			<img src="https://1221121.xyz/profileReadme/discordSvg" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://1221121.xyz">
 		<img src="https://1221121.xyz/profileReadme/websiteSvg" ></a>
 	 <a style="margin-left: 10px;"  target="_blank" href="https://mastodon.social/@aquajo">
@@ -23,7 +23,7 @@
       </div>
 <div align="center"  class="icons-social">
 	<a style="margin-left: 10px;"  target="_blank" href="mailto:aquajo@proton.me">
-			<img src="https://camo.githubusercontent.com/9514e22fade05d32bd42fb74dca5547544c6c467636f5a77ff4b8a9312c5eca5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f746f6e4d61696c2d3842383943433f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f746f6e6d61696c266c6f676f436f6c6f723d7768697465" ></a>
+			<img src="https://1221121.xyz/profileReadme/protonSvg" ></a>
 </div>
 </div>
 </p>

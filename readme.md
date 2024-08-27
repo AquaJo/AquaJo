@@ -5,8 +5,8 @@
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	 <summary><h1>I am</h1></summary>
   <p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMeBzVpQnOHX7"></a>
-	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnBzVpQnOHX7" alt="Typing SVG" /></a>
+<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMelhOWo7cLyD"></a>
+	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnlhOWo7cLyD" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -15,7 +15,7 @@
 <p align="center">
  <div align="center"  class="icons-social">
         <a style="margin-left: 10px;"  target="_blank" href="https://discordapp.com/users/399176407202136066">
-			<img src="https://camo.githubusercontent.com/930f7883dc43ea38dc8674fdbde77875993b0cdd011318fb4268dfb3f3bcb185/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" ></a>
+			<img src="https://1221121.xyz/profileReadme/discordSvg" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://1221121.xyz">
 		<img src="https://1221121.xyz/profileReadme/websiteSvg" ></a>
 	 <a style="margin-left: 10px;"  target="_blank" href="https://mastodon.social/@aquajo">
@@ -23,7 +23,7 @@
       </div>
 <div align="center"  class="icons-social">
 	<a style="margin-left: 10px;"  target="_blank" href="mailto:aquajo@proton.me">
-			<img src="https://camo.githubusercontent.com/9514e22fade05d32bd42fb74dca5547544c6c467636f5a77ff4b8a9312c5eca5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f746f6e4d61696c2d3842383943433f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f746f6e6d61696c266c6f676f436f6c6f723d7768697465" ></a>
+			<img src="https://1221121.xyz/profileReadme/protonSvg" ></a>
 </div>
 </div>
 </p>
@@ -35,8 +35,8 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Where the senses fail us, reason must step in.<br> ~ Galileo Galilei - Italian Polymath</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtBzVpQnOHX7" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatBzVpQnOHX7" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> The two most important days in your life are the day you are born and the day<br>you find out why.<br> ~ Mark Twain - American writer</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtlhOWo7cLyD" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatlhOWo7cLyD" height = "200px"></p>
   </ul>
 </div>
 
@@ -49,11 +49,11 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimeBzVpQnOHX7" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimelhOWo7cLyD" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimeBzVpQnOHX7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimelhOWo7cLyD" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdviceBzVpQnOHX7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvicelhOWo7cLyD" alt="Typing SVG" /></a>
 
 </div>
 
