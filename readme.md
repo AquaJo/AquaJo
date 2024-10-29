@@ -5,8 +5,8 @@
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	 <summary><h1>I am</h1></summary>
   <p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMec2agCqb9q3"></a>
-	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnc2agCqb9q3" alt="Typing SVG" /></a>
+<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMedQbr8FT3C1"></a>
+	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOndQbr8FT3C1" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -35,8 +35,8 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Darkness cannot drive out darkness: only light can do that. Hate cannot drive<br>out hate; only love can do that.<br> ~ Martin Luther King - American minister</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtc2agCqb9q3" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatc2agCqb9q3" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> That's why they call it the American Dream, because you have to be asleep to<br>believe it.<br> ~ George Carlin - American comedian</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtdQbr8FT3C1" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatdQbr8FT3C1" height = "200px"></p>
   </ul>
 </div>
 
@@ -49,11 +49,11 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimec2agCqb9q3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimedQbr8FT3C1" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimec2agCqb9q3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimedQbr8FT3C1" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvicec2agCqb9q3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvicedQbr8FT3C1" alt="Typing SVG" /></a>
 
 </div>
 
