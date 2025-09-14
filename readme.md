@@ -5,8 +5,8 @@
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	 <summary><h1>I am</h1></summary>
   <p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMeCbZjrayrc1"></a>
-	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnCbZjrayrc1" alt="Typing SVG" /></a>
+<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMerfbsASTL0x"></a>
+	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnrfbsASTL0x" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -35,8 +35,8 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> The weak can never forgive. Forgiveness is the attribute of the strong.<br> ~ Mahatma Gandhi - Indian leader</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtCbZjrayrc1" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatCbZjrayrc1" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> As you grow older, you will discover that you have two hands, one for helping<br>yourself, the other for helping others.<br> ~ Audrey Hepburn - British actress</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtrfbsASTL0x" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatrfbsASTL0x" height = "200px"></p>
   </ul>
 </div>
 
@@ -49,11 +49,11 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimeCbZjrayrc1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimerfbsASTL0x" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimeCbZjrayrc1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimerfbsASTL0x" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdviceCbZjrayrc1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvicerfbsASTL0x" alt="Typing SVG" /></a>
 
 </div>
 
