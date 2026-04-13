@@ -5,8 +5,8 @@
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	 <summary><h1>I am</h1></summary>
   <p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMecw4BM0HeWm"></a>
-	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOncw4BM0HeWm" alt="Typing SVG" /></a>
+<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMeqsGHQj0UBm"></a>
+	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnqsGHQj0UBm" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -35,8 +35,8 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> If you can't make it good, at least make it look good.<br> ~ Bill Gates - American business magnate</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtcw4BM0HeWm" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatcw4BM0HeWm" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Hell is empty and all the devils are here.<br> ~ William Shakespeare - English poet</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtqsGHQj0UBm" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatqsGHQj0UBm" height = "200px"></p>
   </ul>
 </div>
 
@@ -49,11 +49,11 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimecw4BM0HeWm" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimeqsGHQj0UBm" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimecw4BM0HeWm" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimeqsGHQj0UBm" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdvicecw4BM0HeWm" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdviceqsGHQj0UBm" alt="Typing SVG" /></a>
 
 </div>
 
