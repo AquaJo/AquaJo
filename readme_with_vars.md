@@ -22,7 +22,7 @@
 			<img src="https://1221121.xyz/profileReadme/mastodonSvg" ></a>
       </div>
 <div align="center"  class="icons-social">
-	<a style="margin-left: 10px;"  target="_blank" href="mailto:aquajo@proton.me">
+	<a style="margin-left: 10px;"  target="_blank" href="mailto:aquajoo@proton.me">
 			<img src="https://1221121.xyz/profileReadme/protonSvg" ></a>
 </div>
 </div>
