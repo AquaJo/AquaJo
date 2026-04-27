@@ -5,8 +5,8 @@
 	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	 <summary><h1>I am</h1></summary>
   <p align="center">
-<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMeCNTdET1qhP"></a>
-	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnCNTdET1qhP" alt="Typing SVG" /></a>
+<a href="https://github.com/fairyland0926"><img src="https://1221121.xyz/profileReadme/aboutMeaMHd4iGymk"></a>
+	  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/workingOnaMHd4iGymk" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -35,8 +35,8 @@
     <summary><h2 align="center"><img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" />  Meowtivation-Area  <img width=50px src="https://i.giphy.com/0t2efjF7Cc1scRNTaX.gif" /></h2></summary>
 		<img width = 70% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 		<br>
-	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> Those who look for the bad in people will surely find it.<br> ~ Abraham Lincoln - 16th U.S. President</p>
-		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtCNTdET1qhP" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCatCNTdET1qhP" height = "200px"></p>
+	  <p align = "center" color = "red" ><img src="https://i.giphy.com/091I7jCj8IlS8SAeBv.gif" width="30"> We often discover what will do, by finding out what will not do; and probably<br>he who never made a mistake never made a discovery.<br> ~ Samuel Smiles - Scottish Author</p>
+		<p float = "left"><a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catOfTheHourTxtaMHd4iGymk" alt="Typing SVG" /></a><img src="https://1221121.xyz/profileReadme/hourCataMHd4iGymk" height = "200px"></p>
   </ul>
 </div>
 
@@ -49,11 +49,11 @@
 	<div>
 		<img height = "40px" src = "void.png"/>
 		
-  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimeCNTdET1qhP" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/catTimeaMHd4iGymk" alt="Typing SVG" /></a>
 	
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimeCNTdET1qhP" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteTimeaMHd4iGymk" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdviceCNTdET1qhP" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://1221121.xyz/profileReadme/quoteResponsibilityAdviceaMHd4iGymk" alt="Typing SVG" /></a>
 
 </div>
 
